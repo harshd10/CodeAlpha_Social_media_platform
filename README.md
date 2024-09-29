@@ -1,1 +1,2 @@
-# CodeAlpha_Social_media_platform
+# social-media-website
+A Responsive Social Media Website With Theme Customization Using HTML CSS &amp; JavaScript
